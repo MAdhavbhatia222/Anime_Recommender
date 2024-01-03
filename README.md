@@ -10,6 +10,13 @@ This project demonstrates the creation of an Anime Recommender System, encompass
 - **Containerization**: Docker was utilized for containerizing the application and its environment.
 - **Deployment**: The model was deployed on an Oracle Compute Instance.
 
+![image](https://github.com/MAdhavbhatia222/Anime_Recommender/assets/32282603/a23fee38-b03c-4265-975f-8761e2a87ecb)
+
+
+https://github.com/MAdhavbhatia222/Anime_Recommender/assets/32282603/e25aeb2e-a8ac-4301-bdeb-23a87bd7f8fa
+
+
+
 ## Model Deployment
 - The recommender system is live at [SuggestAnime](www.suggestanime.com).
 
