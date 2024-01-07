@@ -13,7 +13,8 @@ Kaggle : [Anime Database](https://www.kaggle.com/datasets/CooperUnion/anime-reco
 - **Containerization**: Docker was utilized for containerizing the application and its environment.
 - **Deployment**: The model was deployed on an Oracle Compute Instance.
 
-![image](https://github.com/MAdhavbhatia222/Anime_Recommender/assets/32282603/a23fee38-b03c-4265-975f-8761e2a87ecb)
+![image](https://github.com/MAdhavbhatia222/Anime_Recommender/assets/32282603/9418fc9b-9df0-407a-980b-44dd7209efa9)
+
 
 
 https://github.com/MAdhavbhatia222/Anime_Recommender/assets/32282603/e25aeb2e-a8ac-4301-bdeb-23a87bd7f8fa
