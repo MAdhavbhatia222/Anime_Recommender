@@ -3,6 +3,9 @@
 ## Overview
 This project demonstrates the creation of an Anime Recommender System, encompassing the entire workflow from data warehousing to model deployment.
 
+##Data Source
+Kaggle : [Anime Database](https://www.kaggle.com/datasets/CooperUnion/anime-recommendations-database)
+
 ## Project Workflow
 - **Data Warehousing**: CSV data was migrated to Oracle Autonomous Data Warehouse using Talend.
 - **Data Exploration**: Python notebooks were used for exploring the data by connecting to the data warehouse.
