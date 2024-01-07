@@ -3,7 +3,7 @@
 ## Overview
 This project demonstrates the creation of an Anime Recommender System, encompassing the entire workflow from data warehousing to model deployment.
 
-##Data Source
+## Data Source
 Kaggle : [Anime Database](https://www.kaggle.com/datasets/CooperUnion/anime-recommendations-database)
 
 ## Project Workflow
