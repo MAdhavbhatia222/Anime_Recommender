@@ -22,7 +22,7 @@ https://github.com/MAdhavbhatia222/Anime_Recommender/assets/32282603/e25aeb2e-a8
 
 
 ## Model Deployment
-- The recommender system is live at [SuggestAnime](www.suggestanime.com).
+- The recommender system is live at [SuggestAnime](https://www.suggestanime.com).
 
 ## Repository Contents
 - `indices.pkl`: Serialized indices file for recommendation.
